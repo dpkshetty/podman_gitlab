@@ -1,5 +1,6 @@
 # podman_gitlab
-Podman for gitlab tutorial. 
+Podman for gitlab tutorial.
+
 Ensures USER and WORKDIR are set in the docker image which prevents errors otherwise seen in gitlab CI/CD operations
 
 Errors seen in gitlab CI/CD when using the standard podman from quay.io ...
