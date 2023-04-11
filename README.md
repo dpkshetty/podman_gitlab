@@ -1,5 +1,6 @@
 # podman_gitlab
-Podman for gitlab tutorial.
+Podman for gitlab tutorial at:
+https://developer.ibm.com/tutorials/build-multi-architecture-x86-and-power-container-images-using-gitlab/
 
 Ensures USER and WORKDIR are set in the docker image which prevents errors otherwise seen in gitlab CI/CD operations
 
